@@ -167,7 +167,7 @@ Fynd
     <div class="span prod">
         <a href="../produkt/övrigt-kallholmen-gångjärn/index.html">
             
-            <img src="../../static/media/product/.thumbnails/kallholmen-gangjarn_2-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/kallholmen-gangjarn_2-350x350.jpg">
             
             <h5>Utg. Kallholmen Gångjärn </h5>
             
@@ -182,7 +182,7 @@ Fynd
     <div class="span prod">
         <a href="../produkt/ljushållare-defekt/index.html">
             
-            <img src="../../static/media/product/.thumbnails/ljushallare-fynd-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/ljushallare-fynd-350x350.jpg">
             
             <h5>Utg. Kallholmen Ljushållare </h5>
             
@@ -197,7 +197,7 @@ Fynd
     <div class="span prod">
         <a href="../produkt/fynd-prästgården-lampett-liten/index.html">
             
-            <img src="../../static/media/product/.thumbnails/pg-lampett-liten_1-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/pg-lampett-liten_1-350x350.jpg">
             
             <h5>Utg. Prästgården Lampett liten </h5>
             
@@ -217,7 +217,7 @@ Fynd
 <li>
     <a href="/sortiment/produkt/%C3%B6vrigt-kallholmen-g%C3%A5ngj%C3%A4rn/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/kallholmen-gangjarn_2-220x220.jpg">
+        <img src="/static/media/product/thumbnails/kallholmen-gangjarn_2-220x220.jpg">
         
         <h6>Utg. Kallholmen Gångjärn </h6>
         
@@ -233,7 +233,7 @@ Fynd
 <li>
     <a href="/sortiment/produkt/ljush%C3%A5llare-defekt/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/ljushallare-fynd-220x220.jpg">
+        <img src="/static/media/product/thumbnails/ljushallare-fynd-220x220.jpg">
         
         <h6>Utg. Kallholmen Ljushållare </h6>
         
@@ -249,7 +249,7 @@ Fynd
 <li>
     <a href="/sortiment/produkt/fynd-pr%C3%A4stg%C3%A5rden-lampett-liten/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/pg-lampett-liten_1-220x220.jpg">
+        <img src="/static/media/product/thumbnails/pg-lampett-liten_1-220x220.jpg">
         
         <h6>Utg. Prästgården Lampett liten </h6>
         

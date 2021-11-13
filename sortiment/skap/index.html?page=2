@@ -167,7 +167,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/rosgården-klädskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-kladskap-a_2-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-kladskap-a_2-350x350.jpg">
             
             <h5>Rosgården Klädskåp</h5>
             
@@ -180,7 +180,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/rosgården-linneskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-kladskap-a_1-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-kladskap-a_1-350x350.jpg">
             
             <h5>Rosgården Linneskåp</h5>
             
@@ -193,7 +193,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/rosgården-sängskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-sangskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-sangskap-a-350x350.jpg">
             
             <h5>Rosgården Sängskåp</h5>
             
@@ -206,7 +206,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/solgården-bokhylla/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-bokhylla-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-bokhylla-a-350x350.jpg">
             
             <h5>Solgården Bokhylla</h5>
             
@@ -219,7 +219,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/solgården-klädskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-kladskap-a_2-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-kladskap-a_2-350x350.jpg">
             
             <h5>Solgården Klädskåp</h5>
             
@@ -232,7 +232,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/solgården-linneskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-kladskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-kladskap-a-350x350.jpg">
             
             <h5>Solgården Linneskåp</h5>
             
@@ -245,7 +245,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/solgården-sängskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-sangskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-sangskap-a-350x350.jpg">
             
             <h5>Solgården Sängskåp</h5>
             
@@ -258,7 +258,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/solgården-vitrinskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-vitrinskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-vitrinskap-a-350x350.jpg">
             
             <h5>Solgården Vitrinskåp</h5>
             
@@ -276,7 +276,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-kl%C3%A4dsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-kladskap-a_2-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-kladskap-a_2-220x220.jpg">
         
         <h6>Rosgården Klädskåp</h6>
         
@@ -289,7 +289,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-linnesk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-kladskap-a_1-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-kladskap-a_1-220x220.jpg">
         
         <h6>Rosgården Linneskåp</h6>
         
@@ -302,7 +302,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-s%C3%A4ngsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-sangskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-sangskap-a-220x220.jpg">
         
         <h6>Rosgården Sängskåp</h6>
         
@@ -315,7 +315,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-bokhylla/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-bokhylla-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-bokhylla-a-220x220.jpg">
         
         <h6>Solgården Bokhylla</h6>
         
@@ -328,7 +328,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-kl%C3%A4dsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-kladskap-a_2-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-kladskap-a_2-220x220.jpg">
         
         <h6>Solgården Klädskåp</h6>
         
@@ -341,7 +341,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-linnesk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-kladskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-kladskap-a-220x220.jpg">
         
         <h6>Solgården Linneskåp</h6>
         
@@ -354,7 +354,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-s%C3%A4ngsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-sangskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-sangskap-a-220x220.jpg">
         
         <h6>Solgården Sängskåp</h6>
         
@@ -367,7 +367,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-vitrinsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-vitrinskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-vitrinskap-a-220x220.jpg">
         
         <h6>Solgården Vitrinskåp</h6>
         

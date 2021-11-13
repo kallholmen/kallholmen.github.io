@@ -167,7 +167,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/herrgården-bänk/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-bank-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-bank-a-350x350.jpg">
             
             <h5>Herrgården Bänk</h5>
             
@@ -180,7 +180,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/herrgården-matbord-1/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-matbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-matbord-a-350x350.jpg">
             
             <h5>Herrgården Matbord</h5>
             
@@ -193,7 +193,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/herrgården-sängbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-sangbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-sangbord-a-350x350.jpg">
             
             <h5>Herrgården Sängbord</h5>
             
@@ -206,7 +206,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/herrgården-sidobord-1/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-sidobord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-sidobord-a-350x350.jpg">
             
             <h5>Herrgården Sidobord</h5>
             
@@ -219,7 +219,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/herrgården-skrivbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-skrivbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-skrivbord-a-350x350.jpg">
             
             <h5>Herrgården Skrivbord</h5>
             
@@ -232,7 +232,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/prästgården-bänk/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-bank.a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-bank.a-350x350.jpg">
             
             <h5>Prästgården Bänk</h5>
             
@@ -245,7 +245,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/prästgården-matbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-matbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-matbord-a-350x350.jpg">
             
             <h5>Prästgården Matbord</h5>
             
@@ -258,7 +258,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/prästgården-sängbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-sangbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-sangbord-a-350x350.jpg">
             
             <h5>Prästgården Sängbord</h5>
             
@@ -271,7 +271,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/prästgården-sidobord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-sidobord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-sidobord-a-350x350.jpg">
             
             <h5>Prästgården Sidobord</h5>
             
@@ -284,7 +284,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/prästgården-skrivbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-skrivbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-skrivbord-a-350x350.jpg">
             
             <h5>Prästgården Skrivbord</h5>
             
@@ -297,7 +297,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/rosgården-sängbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-sangbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-sangbord-a-350x350.jpg">
             
             <h5>Rosgården Sängbord</h5>
             
@@ -310,7 +310,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/solgården-sängbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-sangbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-sangbord-a-350x350.jpg">
             
             <h5>Solgården Sängbord</h5>
             
@@ -328,7 +328,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-b%C3%A4nk/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-bank-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-bank-a-220x220.jpg">
         
         <h6>Herrgården Bänk</h6>
         
@@ -341,7 +341,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-matbord-1/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-matbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-matbord-a-220x220.jpg">
         
         <h6>Herrgården Matbord</h6>
         
@@ -354,7 +354,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-s%C3%A4ngbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-sangbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-sangbord-a-220x220.jpg">
         
         <h6>Herrgården Sängbord</h6>
         
@@ -367,7 +367,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-sidobord-1/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-sidobord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-sidobord-a-220x220.jpg">
         
         <h6>Herrgården Sidobord</h6>
         
@@ -380,7 +380,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-skrivbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-skrivbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-skrivbord-a-220x220.jpg">
         
         <h6>Herrgården Skrivbord</h6>
         
@@ -393,7 +393,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-b%C3%A4nk/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-bank.a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-bank.a-220x220.jpg">
         
         <h6>Prästgården Bänk</h6>
         
@@ -406,7 +406,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-matbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-matbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-matbord-a-220x220.jpg">
         
         <h6>Prästgården Matbord</h6>
         
@@ -419,7 +419,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-s%C3%A4ngbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-sangbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-sangbord-a-220x220.jpg">
         
         <h6>Prästgården Sängbord</h6>
         
@@ -432,7 +432,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-sidobord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-sidobord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-sidobord-a-220x220.jpg">
         
         <h6>Prästgården Sidobord</h6>
         
@@ -445,7 +445,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-skrivbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-skrivbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-skrivbord-a-220x220.jpg">
         
         <h6>Prästgården Skrivbord</h6>
         
@@ -458,7 +458,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-s%C3%A4ngbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-sangbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-sangbord-a-220x220.jpg">
         
         <h6>Rosgården Sängbord</h6>
         
@@ -471,7 +471,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-s%C3%A4ngbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-sangbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-sangbord-a-220x220.jpg">
         
         <h6>Solgården Sängbord</h6>
         

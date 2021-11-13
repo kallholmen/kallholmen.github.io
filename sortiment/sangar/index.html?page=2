@@ -167,7 +167,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/rosgården-dubbelsänggavel/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-dubbelsanggavel-a.-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-dubbelsanggavel-a.-350x350.jpg">
             
             <h5>Rosgården Dubbelsänggavel</h5>
             
@@ -180,7 +180,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/rosgården-enkelsänggavel/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-enkelsanggavel-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-enkelsanggavel-a-350x350.jpg">
             
             <h5>Rosgården Enkelsänggavel</h5>
             
@@ -193,7 +193,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/rosgården-kingsizesäng/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-dubbelsanggavel-b._1-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-dubbelsanggavel-b._1-350x350.jpg">
             
             <h5>Rosgården Kingsizesäng</h5>
             
@@ -206,7 +206,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/rosgården-sängbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-sangbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-sangbord-a-350x350.jpg">
             
             <h5>Rosgården Sängbord</h5>
             
@@ -219,7 +219,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/rosgården-sängabyrå/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-sangbyran-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-sangbyran-a-350x350.jpg">
             
             <h5>Rosgården Sängbyrå</h5>
             
@@ -232,7 +232,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/rosgården-sängskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-sangskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-sangskap-a-350x350.jpg">
             
             <h5>Rosgården Sängskåp</h5>
             
@@ -245,7 +245,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/solgården-sänggavel/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-dubbelsanggavel-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-dubbelsanggavel-a-350x350.jpg">
             
             <h5>Solgården Dubbelsänggavel</h5>
             
@@ -258,7 +258,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/solgården-enkelsänggavel/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-enkelsanggavel-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-enkelsanggavel-a-350x350.jpg">
             
             <h5>Solgården Enkelsänggavel</h5>
             
@@ -271,7 +271,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/solgården-kingsizesäng/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-dubbelsanggavel-b_1-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-dubbelsanggavel-b_1-350x350.jpg">
             
             <h5>Solgården Kingsizesäng</h5>
             
@@ -284,7 +284,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/solgården-sängbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-sangbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-sangbord-a-350x350.jpg">
             
             <h5>Solgården Sängbord</h5>
             
@@ -297,7 +297,7 @@ Sängar
     <div class="span prod">
         <a href="../produkt/solgården-sängskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/solgarden-sangskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/solgarden-sangskap-a-350x350.jpg">
             
             <h5>Solgården Sängskåp</h5>
             
@@ -315,7 +315,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-dubbels%C3%A4nggavel/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-dubbelsanggavel-a.-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-dubbelsanggavel-a.-220x220.jpg">
         
         <h6>Rosgården Dubbelsänggavel</h6>
         
@@ -328,7 +328,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-enkels%C3%A4nggavel/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-enkelsanggavel-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-enkelsanggavel-a-220x220.jpg">
         
         <h6>Rosgården Enkelsänggavel</h6>
         
@@ -341,7 +341,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-kingsizes%C3%A4ng/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-dubbelsanggavel-b._1-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-dubbelsanggavel-b._1-220x220.jpg">
         
         <h6>Rosgården Kingsizesäng</h6>
         
@@ -354,7 +354,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-s%C3%A4ngbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-sangbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-sangbord-a-220x220.jpg">
         
         <h6>Rosgården Sängbord</h6>
         
@@ -367,7 +367,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-s%C3%A4ngabyr%C3%A5/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-sangbyran-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-sangbyran-a-220x220.jpg">
         
         <h6>Rosgården Sängbyrå</h6>
         
@@ -380,7 +380,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/rosg%C3%A5rden-s%C3%A4ngsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-sangskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-sangskap-a-220x220.jpg">
         
         <h6>Rosgården Sängskåp</h6>
         
@@ -393,7 +393,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-s%C3%A4nggavel/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-dubbelsanggavel-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-dubbelsanggavel-a-220x220.jpg">
         
         <h6>Solgården Dubbelsänggavel</h6>
         
@@ -406,7 +406,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-enkels%C3%A4nggavel/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-enkelsanggavel-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-enkelsanggavel-a-220x220.jpg">
         
         <h6>Solgården Enkelsänggavel</h6>
         
@@ -419,7 +419,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-kingsizes%C3%A4ng/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-dubbelsanggavel-b_1-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-dubbelsanggavel-b_1-220x220.jpg">
         
         <h6>Solgården Kingsizesäng</h6>
         
@@ -432,7 +432,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-s%C3%A4ngbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-sangbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-sangbord-a-220x220.jpg">
         
         <h6>Solgården Sängbord</h6>
         
@@ -445,7 +445,7 @@ Sängar
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-s%C3%A4ngsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/solgarden-sangskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/solgarden-sangskap-a-220x220.jpg">
         
         <h6>Solgården Sängskåp</h6>
         

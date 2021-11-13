@@ -167,7 +167,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/solgården-skrivbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-skrivbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-skrivbord-a-350x350.jpg">
             
             <h5>Solgården Skrivbord</h5>
             
@@ -180,7 +180,7 @@ Bord
     <div class="span prod">
         <a href="../produkt/solgården-stilbord/index.html">
             
-            <img src="../../static/media/product/.thumbnails/rosgarden-stilbord-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/rosgarden-stilbord-a-350x350.jpg">
             
             <h5>Solgården Stilbord</h5>
             
@@ -198,7 +198,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-skrivbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-skrivbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-skrivbord-a-220x220.jpg">
         
         <h6>Solgården Skrivbord</h6>
         
@@ -211,7 +211,7 @@ Bord
 <li>
     <a href="/sortiment/produkt/solg%C3%A5rden-stilbord/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/rosgarden-stilbord-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/rosgarden-stilbord-a-220x220.jpg">
         
         <h6>Solgården Stilbord</h6>
         

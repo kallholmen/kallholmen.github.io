@@ -167,7 +167,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/herrgården-bokskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-bokskap-a_1-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-bokskap-a_1-350x350.jpg">
             
             <h5>Herrgården Bokskåp</h5>
             
@@ -180,7 +180,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/herrgården-glasskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-vitrinskap-litet-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-vitrinskap-litet-a-350x350.jpg">
             
             <h5>Herrgården Glasskåp</h5>
             
@@ -193,7 +193,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/herrgården-klädskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-kladskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-kladskap-a-350x350.jpg">
             
             <h5>Herrgården Klädskåp</h5>
             
@@ -206,7 +206,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/herrgården-linneskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-linneskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-linneskap-a-350x350.jpg">
             
             <h5>Herrgården Linneskåp</h5>
             
@@ -219,7 +219,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/herrgården-sängskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-sangskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-sangskap-a-350x350.jpg">
             
             <h5>Herrgården Sängskåp </h5>
             
@@ -232,7 +232,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/herrgården-vitrinskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/herrgarden-vitrinskap-stort-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/herrgarden-vitrinskap-stort-a-350x350.jpg">
             
             <h5>Herrgården Vitrinskåp</h5>
             
@@ -245,7 +245,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/prästgården-bokskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-bokskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-bokskap-a-350x350.jpg">
             
             <h5>Prästgården Bokskåp</h5>
             
@@ -258,7 +258,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/prästgården-glasskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-vitrinskap-litet-a-0x700-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-vitrinskap-litet-a-0x700-350x350.jpg">
             
             <h5>Prästgården Glasskåp</h5>
             
@@ -271,7 +271,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/prästgården-klädskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-kladskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-kladskap-a-350x350.jpg">
             
             <h5>Prästgården Klädskåp</h5>
             
@@ -284,7 +284,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/prästgården-linneskåp-1/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-linneskap-stort-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-linneskap-stort-a-350x350.jpg">
             
             <h5>Prästgården Linneskåp</h5>
             
@@ -297,7 +297,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/prästgården-sängskåp/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-sangskap-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-sangskap-a-350x350.jpg">
             
             <h5>Prästgården Sängskåp</h5>
             
@@ -310,7 +310,7 @@ Skåp
     <div class="span prod">
         <a href="../produkt/prästgården-vitrinskåp-1/index.html">
             
-            <img src="../../static/media/product/.thumbnails/prastgarden-vitrinskap-stort-a-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/prastgarden-vitrinskap-stort-a-350x350.jpg">
             
             <h5>Prästgården Vitrinskåp</h5>
             
@@ -328,7 +328,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-boksk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-bokskap-a_1-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-bokskap-a_1-220x220.jpg">
         
         <h6>Herrgården Bokskåp</h6>
         
@@ -341,7 +341,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-glassk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-vitrinskap-litet-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-vitrinskap-litet-a-220x220.jpg">
         
         <h6>Herrgården Glasskåp</h6>
         
@@ -354,7 +354,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-kl%C3%A4dsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-kladskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-kladskap-a-220x220.jpg">
         
         <h6>Herrgården Klädskåp</h6>
         
@@ -367,7 +367,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-linnesk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-linneskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-linneskap-a-220x220.jpg">
         
         <h6>Herrgården Linneskåp</h6>
         
@@ -380,7 +380,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-s%C3%A4ngsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-sangskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-sangskap-a-220x220.jpg">
         
         <h6>Herrgården Sängskåp </h6>
         
@@ -393,7 +393,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/herrg%C3%A5rden-vitrinsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/herrgarden-vitrinskap-stort-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/herrgarden-vitrinskap-stort-a-220x220.jpg">
         
         <h6>Herrgården Vitrinskåp</h6>
         
@@ -406,7 +406,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-boksk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-bokskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-bokskap-a-220x220.jpg">
         
         <h6>Prästgården Bokskåp</h6>
         
@@ -419,7 +419,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-glassk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-vitrinskap-litet-a-0x700-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-vitrinskap-litet-a-0x700-220x220.jpg">
         
         <h6>Prästgården Glasskåp</h6>
         
@@ -432,7 +432,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-kl%C3%A4dsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-kladskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-kladskap-a-220x220.jpg">
         
         <h6>Prästgården Klädskåp</h6>
         
@@ -445,7 +445,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-linnesk%C3%A5p-1/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-linneskap-stort-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-linneskap-stort-a-220x220.jpg">
         
         <h6>Prästgården Linneskåp</h6>
         
@@ -458,7 +458,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-s%C3%A4ngsk%C3%A5p/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-sangskap-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-sangskap-a-220x220.jpg">
         
         <h6>Prästgården Sängskåp</h6>
         
@@ -471,7 +471,7 @@ Skåp
 <li>
     <a href="/sortiment/produkt/pr%C3%A4stg%C3%A5rden-vitrinsk%C3%A5p-1/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/prastgarden-vitrinskap-stort-a-220x220.jpg">
+        <img src="/static/media/product/thumbnails/prastgarden-vitrinskap-stort-a-220x220.jpg">
         
         <h6>Prästgården Vitrinskåp</h6>
         

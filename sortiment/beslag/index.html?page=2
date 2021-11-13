@@ -167,7 +167,7 @@ Beslag
     <div class="span prod">
         <a href="../produkt/övrigt-kallholmen-ankarkrok/index.html">
             
-            <img src="../../static/media/product/.thumbnails/kallholmen-ankarkrok_1-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/kallholmen-ankarkrok_1-350x350.jpg">
             
             <h5>Utg. Kallholmen Ankarkrok </h5>
             
@@ -182,7 +182,7 @@ Beslag
     <div class="span prod">
         <a href="../produkt/övrigt-kallholmen-gångjärn/index.html">
             
-            <img src="../../static/media/product/.thumbnails/kallholmen-gangjarn_2-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/kallholmen-gangjarn_2-350x350.jpg">
             
             <h5>Utg. Kallholmen Gångjärn </h5>
             
@@ -197,7 +197,7 @@ Beslag
     <div class="span prod">
         <a href="../produkt/ljushållare-defekt/index.html">
             
-            <img src="../../static/media/product/.thumbnails/ljushallare-fynd-350x350.jpg">
+            <img src="../../static/media/product/thumbnails/ljushallare-fynd-350x350.jpg">
             
             <h5>Utg. Kallholmen Ljushållare </h5>
             
@@ -217,7 +217,7 @@ Beslag
 <li>
     <a href="/sortiment/produkt/%C3%B6vrigt-kallholmen-ankarkrok/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/kallholmen-ankarkrok_1-220x220.jpg">
+        <img src="/static/media/product/thumbnails/kallholmen-ankarkrok_1-220x220.jpg">
         
         <h6>Utg. Kallholmen Ankarkrok </h6>
         
@@ -233,7 +233,7 @@ Beslag
 <li>
     <a href="/sortiment/produkt/%C3%B6vrigt-kallholmen-g%C3%A5ngj%C3%A4rn/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/kallholmen-gangjarn_2-220x220.jpg">
+        <img src="/static/media/product/thumbnails/kallholmen-gangjarn_2-220x220.jpg">
         
         <h6>Utg. Kallholmen Gångjärn </h6>
         
@@ -249,7 +249,7 @@ Beslag
 <li>
     <a href="/sortiment/produkt/ljush%C3%A5llare-defekt/" class="thumbnail">
         
-        <img src="/static/media/product/.thumbnails/ljushallare-fynd-220x220.jpg">
+        <img src="/static/media/product/thumbnails/ljushallare-fynd-220x220.jpg">
         
         <h6>Utg. Kallholmen Ljushållare </h6>
         
